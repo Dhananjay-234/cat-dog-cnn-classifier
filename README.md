@@ -111,9 +111,5 @@ Dataset structure after extraction:
 
 This project was developed as part of **machine learning practice** to understand CNN training workflow, dataset preprocessing, model evaluation, and GUI-based deployment of machine learning models.
 
----
 
-## 👤 Author
-
-**Dhananjay Shinde**
 
